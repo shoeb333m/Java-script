@@ -1,0 +1,11 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/raine-works/devcontainer-features/node:1": {
+			"nodeVersion": "latest",
+			"pnpm": "latest",
+			"yarn": "latest",
+			"bun": "latest"
+		}
+	}
+}
